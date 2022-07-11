@@ -4,3 +4,4 @@
 
 - Lógica de programação	
 - Git/Github
+- Primeiros passos para o desenvolvimento web

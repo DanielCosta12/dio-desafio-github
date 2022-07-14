@@ -5,3 +5,5 @@
 - Lógica de programação	
 - Git/Github
 - Primeiros passos para o desenvolvimento web
+- HTML5
+- CSS 3
